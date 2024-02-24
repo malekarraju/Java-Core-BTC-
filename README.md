@@ -21,8 +21,8 @@ Certainly! Here's the updated README.md with links to the skill images:
 
 ## Let's Connect
 
-📧 Email: raju.malekar@example.com  
-💼 LinkedIn: (https://www.linkedin.com/in/rajumalekar/)  
+📧 Email:
+💼 LinkedIn: 
 
 Let's build something awesome together!
 ```
